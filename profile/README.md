@@ -22,7 +22,6 @@
 | **Windows 客户端** | [xiexievpn/winclient](https://github.com/xiexievpn/winclient) | Python + sing-box 桌面客户端，支持一键连接与分流 |
 | **Android 客户端** | [xiexievpn/android-client](https://github.com/xiexievpn/android-client) | 基于 V2rayNG 定制的原生 Android 客户端 |
 | **Linux 客户端** | [xiexievpn/xiexievpn-linux](https://github.com/xiexievpn/xiexievpn-linux) | 支持桌面与命令行的 Linux 客户端 |
-| **macOS 客户端** | [xiexievpn/macos](https://github.com/xiexievpn/macos) | macOS 客户端适配与配置 |
 | **官方公告中心** | [xiexievpn/announcements](https://github.com/xiexievpn/announcements) | 全项目公共通知、公告与交流社区 |
 
 ---
